@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Akashp12345/QuickQuiz.git/static/css/main.17297404.css",
+    "main.js": "/Akashp12345/QuickQuiz.git/static/js/main.e68b6e54.js",
+    "index.html": "/Akashp12345/QuickQuiz.git/index.html",
+    "main.17297404.css.map": "/Akashp12345/QuickQuiz.git/static/css/main.17297404.css.map",
+    "main.e68b6e54.js.map": "/Akashp12345/QuickQuiz.git/static/js/main.e68b6e54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17297404.css",
+    "static/js/main.e68b6e54.js"
+  ]
+}
